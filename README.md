@@ -4,4 +4,4 @@
 * `/nearby` gets the weather near the user using HTML Geolocation. 
 * `/search/:city`  takes user input and gets current weather for that specific location.
 * On pageload nearby weather is displayed.
-* If you input a city, the weather for that city should be displayed.
+* If you input a city, the weather for that city will be displayed.
