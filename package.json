@@ -20,7 +20,7 @@
     "homepage": "https://github.com/appliedtechnology/hometask-weatherAPI#readme",
     "devDependencies": {
         "express": "^4.17.1",
-        "node-fetch": "^2.6.0",
+        "node-fetch": "^2.6.7",
         "nodemon": "^1.19.4",
         "eslint": "5.12.0",
         "eslint-config-airbnb-base": "13.1.0",
